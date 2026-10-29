@@ -18,12 +18,12 @@ A Python-based poker hand evaluator and card game AI engine
 
 ## Features
 
-- **Full 52-card deck** — all four suits (Clubs, Hearts, Spades, Diamonds) with standard face values
-- **Poker hand evaluator** — classifies any 5-card hand into one of 9 hand ranks with tiebreaker scoring
-- **Deck shuffling and dealing** — randomised deck with configurable deal counts
-- **Multi-player game simulation** — deal cards to multiple players and automatically determine the winner
-- **Extensible card and hand classes** — `Card`, `Card_Set`, `Deck`, `Player`, and `Game` classes for easy extension
-- **Test suite** — pre-built test cases for all 9 hand types
+- **Full 52-card deck**: all four suits (Clubs, Hearts, Spades, Diamonds) with standard face values
+- **Poker hand evaluator**: classifies any 5-card hand into one of 9 hand ranks with tiebreaker scoring
+- **Deck shuffling and dealing**: randomised deck with configurable deal counts
+- **Multi-player game simulation**: deal cards to multiple players and automatically determine the winner
+- **Extensible card and hand classes**, `Card`, `Card_Set`, `Deck`, `Player`, and `Game` classes for easy extension
+- **Test suite**: pre-built test cases for all 9 hand types
 
 ## Tech Stack
 
@@ -43,7 +43,7 @@ A Python-based poker hand evaluator and card game AI engine
    cd durak-ai
    ```
 
-2. No external dependencies are required — the project uses only the Python standard library.
+2. No external dependencies are required, the project uses only the Python standard library.
 
 ### Usage
 
